@@ -1,0 +1,1 @@
+# Vite Blank Template With Tailwind Css
